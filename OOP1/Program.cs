@@ -18,6 +18,7 @@ namespace OOP1
             ProducManager producManager = new ProducManager();
             producManager.Add(product1);
             Console.WriteLine(product1.ProductName);
+            Console.WriteLine(product1.UnitPrice);
 
 
 
